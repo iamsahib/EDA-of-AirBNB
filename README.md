@@ -12,8 +12,7 @@ The objective of this project is to analyze Airbnb listing data to gain insights
 ## Libraries Used
 - **pandas** - Data manipulation and preprocessing  
 - **numpy** - Numerical computations  
-- **matplotlib & seaborn** - Data visualization  
-- **scikit-learn (sklearn)** - Machine learning models and preprocessing  
+- **matplotlib & seaborn** - Data visualization    
 
 ## Features Added
 ### Data Cleaning
